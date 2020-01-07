@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d385c4-e0a4-430c-bce9-e0add421e786" name="Default Changelist" comment="" />
+    <list default="true" id="f3d385c4-e0a4-430c-bce9-e0add421e786" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/promises.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_promises.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_prototype.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W2E5LBIOltFJMyNnQiecsEXlDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
@@ -60,10 +68,22 @@
       <workItem from="1578339109086" duration="1934000" />
       <workItem from="1578388740996" duration="653000" />
       <workItem from="1578404935430" duration="9948000" />
+      <workItem from="1578420993003" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
